@@ -1,1 +1,1 @@
-# .github
+The goals of the IDeA National Resource for Quantitative Proteomics are to provide unmatched and most cost-effective access to state-of-the-art quantitative proteomics platforms and education, outreach, and training opportunities that will increase the capacity of NIH-funded investigators, and others in academic laboratories across the United States, to perform cutting-edge biomedical research. By pursuing our goals, we will support the biomedical research mission of NIH for both fundamental and translational research focused on human diseases including cancer.
